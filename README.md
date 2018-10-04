@@ -1,0 +1,2 @@
+# SalesForecasting
+Algoritmic sales forecasting
